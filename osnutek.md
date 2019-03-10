@@ -2,18 +2,20 @@ Project for data mining
 
 Traffic in Slovenia
 
-The theme of our project will the analysis of traffic and its impact on the population and environment.
+The goal of our project is analysis of traffic data in Slovenia to find out if there is an impact on the population and environment.
 
 We are going to try to answer the following questions:
 
-The correlation between car accidents and alcohol abuse,
+What is the correlation between car accidents and alcohol abuse,
 
-The correlation between fining and the reoccurrence of violation of given sort.
+What is the correlation between fining and the reoccurrence of violation of given sort,
 
-The question which age group commits more accidents (young vs old).
+Which age group is more prone to commit more accidents (young vs old),
 
-How the increase of number of personal vehicles influences on the environment.
+How the number increase of personal vehicles influences the environment,
 
-The trend of obtaining drivers licence, whether people get it sooner or later in life.
+The trend of obtaining drivers licence, whether people get it sooner or later in life,
 
+How much a person needs to spend in order to keep driving (monthly/yearly car gas bills, reapirement cost, licensing cost..),
 
+Safety of driving a car, compared to other means of transport.
